@@ -18,16 +18,16 @@ number: '03'
 repo: hrtech2026/team-other-03
 members:
   - login: nkrivenckova2018-commits
-    name: ''
+    name: 'Кривенкова Надежда'
     role: analyst
   - login: CarabasBarabas
-    name: ''
+    name: 'Симончук Диана'
     role: captain
   - login: Irinairina5046
-    name: ''
+    name: 'Свинцова Ирина'
     role: architect
   - login: SergeyZhigalo
-    name: ''
+    name: 'Жигало Сергей'
     role: requirements
 stakeholders: []
 concept: 'HRTech: честная обратная связь - конфликт достоверности и безопасности'
