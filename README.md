@@ -6,7 +6,7 @@
 
 **Репозиторий:** https://github.com/hrtech2026/team-other-03
 
-**Текущий этап:** 02_AS-IS_Анализ
+**Текущий этап:** 03_TO_BE_Архитектура
 
 ## Концепт
 HRTech: честная обратная связь - конфликт достоверности и безопасности
@@ -24,10 +24,10 @@ HRTech: честная обратная связь - конфликт досто
 
 | Документ | Этап | Ответственный | Состояние |
 |---|---|---|---|
-| [`docs/01_problem.md`](docs/01_problem.md) | Проблематизация | Аналитик | в работе |
-| [`docs/02_asis_analysis.md`](docs/02_asis_analysis.md) | AS-IS | Аналитик | не начат |
-| [`docs/03_tobe_architecture.md`](docs/03_tobe_architecture.md) | TO-BE и HITL | Архитектор | не начат |
-| [`docs/04_requirements.md`](docs/04_requirements.md) | Требования | Аналитик | не начат |
+| [`docs/01_problem.md`](docs/01_problem.md) | Проблематизация | Аналитик | готово |
+| [`docs/02_asis_analysis.md`](docs/02_asis_analysis.md) | AS-IS | Аналитик | готово |
+| [`docs/03_tobe_architecture.md`](docs/03_tobe_architecture.md) | TO-BE и HITL | Архитектор | в работе |
+| [`docs/04_requirements.md`](docs/04_requirements.md) | Требования | Аналитик | в работе |
 | [`docs/05_glossary.md`](docs/05_glossary.md) | вспомогательное | любой | по желанию |
 
 ## Как работаем
